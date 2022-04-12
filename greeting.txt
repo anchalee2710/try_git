@@ -1,4 +1,0 @@
-# Greeting
-
-hellow world
-by jane
